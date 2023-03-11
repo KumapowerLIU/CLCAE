@@ -19,10 +19,10 @@
 
 ## :sparkles: Pipeline
 
-### [How to find the suitable foundation latent code $w$? Using Contrastive Learning!]
+### How to find the suitable foundation latent code $w$? Using Contrastive Learning!
 <img src='doc/contrastive.png'>
 
-### [Obtaining the better latent code $w^+$ and $f$ based on foundation latent code $w$! ]
+### Obtaining the better latent code $w^+$ and $f$ based on foundation latent code $w$!
 <img src='doc/pipeline.png'>
 
 
