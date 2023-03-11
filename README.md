@@ -8,9 +8,10 @@
 **Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint, CVPR2023**
 
 [Hongyu Liu](https://github.com/KumapowerLIU)<sup>1</sup>,
-[Yibing Song](https://www.microsoft.com/en-us/research/people/zhanbo/)<sup>2</sup>,
-[Qifeng Chen](http://www.dongdongchen.bid/)<sup>3</sup>,
-<sup>1</sup>HKUST, <sup>2</sup>AI$^3$Institute, Fudan University, <sup>3</sup>HKUST
+[Yibing Song](https://ybsong00.github.io/)<sup>2</sup>,
+[Qifeng Chen](https://cqf.io/)<sup>3</sup>
+
+<sup>1</sup>HKUST, <sup>2</sup> AI$^3$ Institute, Fudan University, <sup>3</sup>HKUST
 
 <img src='doc/teaser.png'>
 
@@ -22,7 +23,7 @@
 <img src='doc/contrastive.png'>
 
 ### [Obainting the better lanten code $w^+$ and $f$ based on foundation latent code $w$! ]
-<img src='doc/pipeline.png'>
+<img src='doc/contrastive.png'>
 
 
 ## Citation
