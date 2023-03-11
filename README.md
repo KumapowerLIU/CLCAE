@@ -11,7 +11,7 @@
 [Yibing Song](https://ybsong00.github.io/)<sup>2</sup>,
 [Qifeng Chen](https://cqf.io/)<sup>3</sup>
 
-<sup>1</sup>HKUST, <sup>2</sup> AI$^3$ Institute, Fudan University, <sup>3</sup>HKUST
+<sup>1</sup>HKUST, <sup>2</sup> AI3 Institute, Fudan University, <sup>3</sup>HKUST
 
 <img src='doc/teaser.png'>
 
@@ -23,7 +23,7 @@
 <img src='doc/contrastive.png'>
 
 ### [Obtaining the better latent code $w^+$ and $f$ based on foundation latent code $w$! ]
-<img src='doc/contrastive.png'>
+<img src='doc/pipeline.png'>
 
 
 ## Citation
